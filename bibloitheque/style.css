@@ -1,0 +1,23 @@
+/* common */
+   /*  
+     - opacity hover 
+     - section header
+     - section padding  
+     -hover effect 1( left to  right ) 
+     - hover effect 2 ( top tobottom ) 
+     */
+    
+     * {
+         margin: 0;
+         padding: 0;
+         box-sizing: border-box; /* css3  veut  dire  le  padding  et  border  il  augement  pas  la  valeur  de with   */ 
+
+     }
+     body{
+         font-family: 'Varela Round' , sans-serif;
+
+     }
+ .container {
+     width: 80%;
+     height: ;
+ }
